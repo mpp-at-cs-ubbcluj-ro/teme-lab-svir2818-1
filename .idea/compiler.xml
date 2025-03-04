@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="StartGradle.untitled.main" target="16" />
+      <module name="StartGradle.untitled.test" target="16" />
+      <module name="test" target="17" />
+      <module name="untitled" target="16" />
+      <module name="untitled.main" target="15" />
+      <module name="untitled.test" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
