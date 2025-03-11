@@ -3,6 +3,8 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/LAB1" />
+    <file type="web" url="file://$PROJECT_DIR$/lab3" />
+    <file type="web" url="file://$PROJECT_DIR$/laborator" />
     <file type="web" url="file://$PROJECT_DIR$/StartGradle" />
     <file type="web" url="file://$PROJECT_DIR$/test" />
   </component>
